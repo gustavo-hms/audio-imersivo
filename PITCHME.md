@@ -8,4 +8,4 @@ O corpo é o centro do humano
 
 ### Ressonância
 
-![](assets/img/balançar.png)
+![](assets/img/balancar.png)
