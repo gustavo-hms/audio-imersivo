@@ -10,7 +10,7 @@ O corpo é o centro do humano
 
 ![](assets/img/balancar.png)
 
----?image=assets/img/bg/black.jpg&position=right&size=50% 100%
+---?image=assets/img/bg/black.jpg&position=left&size=50% 100%
 
 @snap[west split-screen-byline text-white]
 Percepção do som
@@ -37,7 +37,7 @@ Percepção do som
 
 ---
 
-@snap[center span-50]
+@snap[midpoint span-40]
 ![](assets/img/boneco.png)
 @snapend
 
