@@ -71,10 +71,10 @@ Percepção do som
 
 ---?image=assets/img/bg/pink.jpg&position=right&size=50% 100%
 
-@snap[west split-screen-byline]
+@snap[west span-45]
 Diferença de fase interaural
 @snapend
 
-@snap[east split-screen-img text-white]
+@snap[east span-50 text-white]
 Diferença de intensidade interaural
 @snapend
