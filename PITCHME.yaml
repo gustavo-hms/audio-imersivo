@@ -1,0 +1,3 @@
+theme: simple
+theme-override: template/css/PITCHME.css
+layout: center
