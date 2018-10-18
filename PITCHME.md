@@ -37,7 +37,7 @@ Percepção do som
 
 ---
 
-@snap[center span-95]
+@snap[center span-50]
 ![](assets/img/boneco.png)
 @snapend
 
