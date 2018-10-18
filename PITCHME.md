@@ -4,7 +4,9 @@
 
 ---
 
-O corpo é o centro do humano
+## @css[text-pink](O corpo) 
+
+é o centro do humano
 
 ---
 
