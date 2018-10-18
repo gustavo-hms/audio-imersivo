@@ -1,4 +1,6 @@
-# Imersão sonora
+---?image=assets/img/bg/orange.jpg&size=cover
+
+# @color[white](Imersão sonora)
 
 ---
 
@@ -37,7 +39,7 @@ Percepção do som
 
 ---
 
-@snap[midpoint span-40]
+@snap[midpoint contain]
 ![](assets/img/boneco.png)
 @snapend
 
@@ -51,7 +53,7 @@ Percepção do som
 
 ---
 
-@snap[midpoint span-80]
+@snap[midpoint contain]
 ![](assets/img/bexiga3.png)
 @snapend
 
