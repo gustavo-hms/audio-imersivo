@@ -51,10 +51,12 @@ Percepção do som
 
 ---
 
-@snap [midpoint span-80]
+@snap[midpoint span-80]
 ![](assets/img/bexiga3.png)
 @snapend
 
 ---
 
+@snap[midpoint contain]
 ![](assets/img/diagrama.png)
+@snapend
