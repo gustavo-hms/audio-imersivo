@@ -10,13 +10,13 @@ O corpo é o centro do humano
 
 ![](assets/img/balancar.png)
 
----?image=template/img/bg/black.jpg&position=right&size=50% 100%
+---?image=assets/img/bg/black.jpg&position=right&size=50% 100%
 
 @snap[west split-screen-byline text-white]
 Percepção do som
 @snapend
 
-@snap[west split-screen-img]
+@snap[east split-screen-img]
 ![](assets/img/coclea.png)
 @snapend
 
