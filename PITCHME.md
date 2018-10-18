@@ -8,6 +8,10 @@
 
 é o centro do humano
 
+---?image=assets/img/ceca.jpg&size=cover
+
+---?image=assets/img/mestre-moa.jpg&size=cover
+
 ---
 
 ### Ressonância
