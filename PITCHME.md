@@ -71,7 +71,7 @@ Percepção do som
 
 ---?image=assets/img/bg/pink.jpg&position=right&size=50% 100%
 
-@snap[west span-45]
+@snap[west span-50]
 Diferença de fase interaural
 @snapend
 
