@@ -33,9 +33,9 @@ Percepção do som
 
 ![](assets/img/onda-detalhe.png)
 
----
+---?image=assets/img/bg/purple.jpg&size=cover
 
-# HRTF
+# @color[white](HRTF)
 
 ---
 
