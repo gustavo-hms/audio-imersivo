@@ -16,7 +16,7 @@ Percepção do som
 
 ![](assets/img/coclea.png)
 
----?image=assets/img/interior-da-coclea.jpg&size=contain
+---?image=assets/img/interior-da-coclea.jpg&size=cover
 
 Percepção do som
 
