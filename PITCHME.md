@@ -10,13 +10,13 @@ O corpo é o centro do humano
 
 ![](assets/img/balancar.png)
 
----
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 
-@snap[west span-45]
-## Percepção do som
+@snap[west split-screen-byline text-white]
+Percepção do som
 @snapend
 
-@snap[east span-45]
+@snap[west split-screen-img]
 ![](assets/img/coclea.png)
 @snapend
 
@@ -37,7 +37,9 @@ O corpo é o centro do humano
 
 ---
 
+@snap[center span-95]
 ![](assets/img/boneco.png)
+@snapend
 
 ---
 
