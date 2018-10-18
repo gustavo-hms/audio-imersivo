@@ -12,13 +12,16 @@ O corpo é o centro do humano
 
 ---
 
-Percepção do som
+@snap[west span-45]
+## Percepção do som
+@snapend
 
+@snap[east span-45]
 ![](assets/img/coclea.png)
+@snapend
 
 ---?image=assets/img/interior-da-coclea.jpg&size=cover
 
-Percepção do som
 
 ---
 
