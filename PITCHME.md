@@ -68,3 +68,13 @@ Percepção do som
 @snap[midpoint contain]
 ![](assets/img/diagrama.png)
 @snapend
+
+---?image=assets/img/bg/pink.jpg&position=right&size=50% 100%
+
+@snap[west split-screen-byline]
+Diferença de fase interaural
+@snapend
+
+@snap[east split-screen-img text-white]
+Diferença de intensidade interaural
+@snapend
